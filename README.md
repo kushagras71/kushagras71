@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushagra Srivastava</h1>
-<h3 align="center">A passionate Machine Learning practitioner with keen in interest in Data Science.</h3>
+<h3 align="center">A passionate Machine Learning practitioner with keen interest in Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagras71&label=Profile%20views&color=0e75b6&style=flat" alt="kushagras71" /> </p>
 
