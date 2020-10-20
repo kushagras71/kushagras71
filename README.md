@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate **with research groups and Data Science communities.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kushagras71 and https://www.kaggle.com/kushagras71](https://github.com/kushagras71 and https://www.kaggle.com/kushagras71)
-
 - 💬 Ask me about **Data Science, Statistics and Machine Learning Algorithms**
 
 - 📫 How to reach me **kushagras71@gmail.com**
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kushagras71" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kushagras71" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kushagras71" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushagras71" height="30" width="40" /></a>
 <a href="https://kaggle.com/kushagras71" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kushagras71" height="30" width="40" /></a>
 </p>
 
